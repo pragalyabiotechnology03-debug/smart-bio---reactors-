@@ -1,0 +1,5 @@
+strealmit
+pandas
+numpy
+requests
+scikit-learn
